@@ -6,3 +6,4 @@ Diameter of binary tree: https://leetcode.com/problems/diameter-of-binary-tree/s
 <br>Square-of-sorted-array: https://leetcode.com/problems/squares-of-a-sorted-array/solutions/4808233/using-two-pointer
 <br>Remove-nth-node-from-last: https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/4814493/explained-line-by-line-recursive-solution
 <br>Bag-of-Tokens:https://leetcode.com/problems/bag-of-tokens/solutions/4822347/using-two-pointer-approach
+<br>Minimum-length-after-deletion-similar-ends:https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/solutions/4824506/using-two-pointer-explained-line-by-line
