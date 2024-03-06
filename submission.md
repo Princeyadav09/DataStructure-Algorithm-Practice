@@ -1,9 +1,1 @@
-Diameter of binary tree: https://leetcode.com/problems/diameter-of-binary-tree/submissions/1187269312/?envType=daily-question&envId=2024-02-27
-<br>Find Bottom Left Tree Value: https://leetcode.com/problems/find-bottom-left-tree-value/solutions/4792190/line-by-line-explanation-of-code-dfs
-<br>Even-Odd-Tree: https://leetcode.com/problems/even-odd-tree/solutions/4797644/solution-in-easy-steps-using-queue
-<br>Maximu-odd-binary-number: https://leetcode.com/problems/maximum-odd-binary-number/solutions/4802747/perform-operation-on-string-with-some-bit-knowledge
-<br>Maximum-odd-binary-number: https://leetcode.com/problems/maximum-odd-binary-number/solutions/4802747/perform-operation-on-string-with-some-bit-knowledge
-<br>Square-of-sorted-array: https://leetcode.com/problems/squares-of-a-sorted-array/solutions/4808233/using-two-pointer
-<br>Remove-nth-node-from-last: https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/4814493/explained-line-by-line-recursive-solution
-<br>Bag-of-Tokens:https://leetcode.com/problems/bag-of-tokens/solutions/4822347/using-two-pointer-approach
-<br>Minimum-length-after-deletion-similar-ends:https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/solutions/4824506/using-two-pointer-explained-line-by-line
+<br>Linked-list-cycle:https://leetcode.com/problems/linked-list-cycle/solutions/4833652/two-pointer-solution
